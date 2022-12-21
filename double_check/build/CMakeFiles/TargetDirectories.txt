@@ -1,0 +1,3 @@
+/home/pasha/gtest/double_check/build/CMakeFiles/rebuild_cache.dir
+/home/pasha/gtest/double_check/build/CMakeFiles/edit_cache.dir
+/home/pasha/gtest/double_check/build/CMakeFiles/executeTests.dir

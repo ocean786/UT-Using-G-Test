@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pasha/gtest/double_check/sqrt.cpp
+math.h
+-
+
+/home/pasha/gtest/double_check/sqrt_test.cpp
+sqrt.cpp
+/home/pasha/gtest/double_check/sqrt.cpp
+gtest/gtest.h
+-
+
